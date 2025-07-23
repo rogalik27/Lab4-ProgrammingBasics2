@@ -7,6 +7,6 @@ g++ 1.2main.cpp 1.2function.cpp -o 1.2; ./1.2
 
 #### 1.3 Компіляція і приклад виконання
 ```bash
-g++ 1.3main.cpp 1.derivatives.cpp -o 1.2; ./1.2
+g++ 1.3main.cpp 1.derivatives.cpp -o 1.3; ./1.3
 ```
 <img width="525" height="104" alt="image" src="https://github.com/user-attachments/assets/4165a4c8-9812-4224-b21b-d5989b03cb19" />
